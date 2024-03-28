@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+.clearfix{
+    float: none;
+    clear: both;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.lateral{
+    display: block;
+    height: 1100px;
+    width: 15%;
+    background-color: black;
+    color: rgba(255, 255, 255, 0.74);
+    letter-spacing: 2px;
+    
+}
+.lateral ul{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Shantell Sans', cursive;
+    list-style: none;
+    padding-left: 20px;
+}
+#lateralp2,
+#lateralp1{
+    border-bottom: 1px solid #ccc;
+}
+.lateral ul li{
+    padding: 10px;
+    
+}
+.lateral ul li:hover{
+    
+    color: white;
+    padding: 10px;
+    
+}
+.logo1{
+    width: 25px;
+    padding-right: 8px;
+    
+}
+.menu ul{
+    float: left;
+    background-color: aqua;
+    width: 75%;
+}
